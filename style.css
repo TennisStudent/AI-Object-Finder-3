@@ -1,0 +1,26 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    float: none;
+    width: 100%;
+    margin-top: 0;
+    font-family: cursive;
+    font-size: 21px;
+}
+#note
+{
+    font-size: 14px;
+    font-family: monospace;
+}
+#name
+{
+    width: 400px;
+}
+canvas
+{
+    border: 2px solid white;
+    margin-top: 200px;
+}
